@@ -1,16 +1,28 @@
-### Hi there 👋
+# ¡Hola! 👋 Soy Ostapowicz Luciano M, un apasionado creador de código.
 
-<!--
-**OstapowiczLuciano/OstapowiczLuciano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi rincón en GitHub! 
 
-Here are some ideas to get you started:
+## Sobre Mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Actualmente, estoy aprendiendo y creciendo como desarrollador.
+- 💼 Trabajo en proyectos que no solo resuelven problemas, sino que también aportan un toque de creatividad.
+- 🚀 Siempre estoy emocionado por aprender nuevas tecnologías y enfoques.
+
+## Proyectos Destacados
+
+Aquí hay algunos proyectos que han salido de mi corazón y cerebro:
+
+- [Proyecto El Numero Secreto](https://github.com/OstapowiczLuciano/Juego-el-numero-secreto)
+- [Proyecto Homebanking Basico](https://github.com/OstapowiczLuciano/HomeBanking)
+  
+## Conéctate Conmigo
+
+Me encantaría conocer a otros apasionados por la programación y la tecnología. ¡Conéctate conmigo y compartamos nuestras experiencias!
+
+- [LinkedIn]([https://www.linkedin.com/in/tuusuario/](https://www.linkedin.com/in/luciano-martin-ostapowicz/))
+- [Gmail](luciano.ostapowicz@gmail.com)
+
+¡Gracias por pasar por aquí! Espero que encuentres algo inspirador en mis proyectos.
+
+¡Feliz codificación! 🚀
+
